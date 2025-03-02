@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h2 align = "center"> <code>SELECT * FROM dreams WHERE limit is NULL</code> </h2>
+<h2 align="left">Hi 👋, I'm Ashish Kumar</h2>
+<h3 align = "left"> <code>SELECT * FROM dreams WHERE limit is NULL</code> </h3>
 <h3 align="center">Learning everything else than computer and software engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishk15678&label=Profile%20views&color=0e75b6&style=flat" alt="ashishk15678" /> </p>
 
