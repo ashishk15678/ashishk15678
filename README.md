@@ -3,9 +3,6 @@
 <h3 align="center">Learning everything else than computer and software engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishk15678&label=Profile%20views&color=0e75b6&style=flat" alt="ashishk15678" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishk15678" alt="ashishk15678" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ashish15678" target="blank"><img src="https://img.shields.io/twitter/follow/ashish15678?logo=twitter&style=for-the-badge" alt="ashish15678" /></a> </p>
 
 - 🌱 I’m currently learning **nextjs**
 
