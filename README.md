@@ -19,11 +19,11 @@
 
 ###
 
-<h4 align="left">I'm ... from India<br><br>- 🔭 I’m working as a freelancer , but am a student<br>- 📚 I'm currently learning rust and C<br>- ⚡ In my free time I like to sleep<br></h4>
+<h4 align="left">I'm ... from India<br><br>- I’m working as a freelancer , but am a student<br>-  I'm currently learning rust and C<br>- ⚡ In my free time I like to sleep<br></h4>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 ###
 
