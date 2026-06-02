@@ -1,14 +1,10 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ashishk15678/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/ashishonsol/" target="_blank">
+  <a href="https://x.com/0x08f/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="15678ashish@gmail.com" target="_blank">
@@ -19,17 +15,11 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">let mut name : &str = "Ashish".to_string()</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h4 align="left">I'm ... from India<br><br>- 🔭 I’m working as a freelancer , but am a student<br>- 📚 I'm currently learning ruby on rails<br>- ⚡ In my free time I like to sleep<br>- ⚠️ I made an error above , report it to me to get surprises</h4>
+<h4 align="left">I'm ... from India<br><br>- 🔭 I’m working as a freelancer , but am a student<br>- 📚 I'm currently learning rust and C<br>- ⚡ In my free time I like to sleep<br></h4>
 
 ###
 
@@ -60,37 +50,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishk15678&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ashishk15678/count.svg?"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishk15678/ashishk15678/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishk15678/ashishk15678/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ashishk15678/ashishk15678/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31br2oqm6vxyjsfflzg3svg7zem4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31br2oqm6vxyjsfflzg3svg7zem4&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
